@@ -3,6 +3,6 @@ Codes and blogs to capture design blueprints, developememt and support activitie
 
 This folder captures the codes and configurations for Cloud Foundry deployment on OpenStack with OpenContrail.
 
-   06.10.2015: Initial setup.
+   - 06.10.2015: Initial setup.
    
-   06.11.2015: Kilo configuration updates 
+   - 06.11.2015: Kilo configuration updates 
